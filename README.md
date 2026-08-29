@@ -27,6 +27,7 @@ A collection of Data Structures and Algorithms problems implemented in C++.
 | 121 | Best Time to Buy and Sell Stock | [View Solution](01-Arrays/Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 283 | Move Zeroes | [View Solution](01-Arrays/Move_Zeroes.cpp) |
 | 1480 | Running Sum of 1d Array | [View Solution](01-Arrays/Running_Sum.cpp) |
+| 1470 | Shuffle the Array | [View Solution](01-Arrays/Shuffle_the_Array.cpp) |
 
 ### Searching
 

@@ -1,5 +1,18 @@
 # DSA-Cpp
-Data Structures and Algorithms Implementations in C++
+
+A collection of Data Structures and Algorithms problems implemented in C++.
+
+## 📚 Topics
+
+- Arrays
+- Searching
+- Sorting
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
 
 ## 🧩 Problems Solved
 
@@ -17,4 +30,14 @@ Data Structures and Algorithms Implementations in C++
 | Problem | Solution |
 |---------|----------|
 | Linear Search | [View Solution](02-Searching/Linear_Search.cpp) |
-| 704 - Binary Search | [View Solution](02-Searching/Binary_Search.cpp) |
+| 704 | [View Solution](02-Searching/Binary_Search.cpp) |
+
+## 🛠️ Language
+
+- C++
+
+## 🎯 Goal
+
+This repository documents my journey of learning
+Data Structures and Algorithms and improving my
+problem-solving skills in C++.

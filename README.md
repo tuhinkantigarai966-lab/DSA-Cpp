@@ -30,7 +30,16 @@ A collection of Data Structures and Algorithms problems implemented in C++.
 | Problem | Solution |
 |---------|----------|
 | Linear Search | [View Solution](02-Searching/Linear_Search.cpp) |
-| 704 | [View Solution](02-Searching/Binary_Search.cpp) |
+| 704 - Binary Search | [View Solution](02-Searching/Binary_Search.cpp) |
+
+### Sorting
+
+| Algorithm | Solution |
+|-----------|----------|
+| Bubble Sort | [View Solution](03-Sorting/Bubble_Sort.cpp) |
+| Selection Sort | [View Solution](03-Sorting/Selection_Sort.cpp) |
+| Insertion Sort | [View Solution](03-Sorting/Insertion_Sort.cpp) |
+| Merge Sort | [View Solution](03-Sorting/Merge_Sort.cpp) |
 
 ## 🛠️ Language
 

@@ -1,3 +1,16 @@
+/*
+    LeetCode 27 - Remove Element
+
+    Approach:
+    Traverse the array and keep only the elements
+    that are different from the given value.
+
+    'k' represents the position where the next
+    valid element should be placed.
+
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+*/
 #include <vector>
 using namespace std;
 

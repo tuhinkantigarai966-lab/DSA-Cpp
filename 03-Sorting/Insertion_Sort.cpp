@@ -2,13 +2,13 @@
     Insertion Sort
 
     Approach:
-    Build the sorted part of the array one element
+    Build the sorted portion of the array one element
     at a time.
 
-    Take the current element and compare it with
-    elements before it. Shift larger elements to
-    the right and insert the current element
-    into its correct position.
+    Take the current element and compare it with the
+    elements before it. Shift larger elements one
+    position to the right and insert the current
+    element into its correct position.
 
     Time Complexity:
     Best Case: O(n)
@@ -31,6 +31,7 @@ void insertionSort(vector<int>& nums) {
         int j = i - 1;
 
         while (j >= 0 && nums[j] > key) {
+
             nums[j + 1] = nums[j];
             j--;
         }

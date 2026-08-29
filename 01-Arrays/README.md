@@ -14,6 +14,7 @@ related to arrays, implemented in C++.
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Brute Force | O(n²) | O(n) |
 | 1470 | Shuffle the Array | Index Manipulation | O(n) | O(n) |
 | 1480 | Running Sum of 1d Array | Prefix Sum | O(n) | O(1) |
+| 1920 | Build Array from Permutation | Index Manipulation | O(n) | O(n) |
 
 ## 🧠 Concepts Covered
 

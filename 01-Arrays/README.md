@@ -11,6 +11,7 @@ related to arrays, implemented in C++.
 | 27 | Remove Element | Two Pointer | O(n) | O(1) |
 | 121 | Best Time to Buy and Sell Stock | Greedy | O(n) | O(1) |
 | 283 | Move Zeroes | Two Pointer | O(n) | O(1) |
+| 1480 | Running Sum of 1d Array | Prefix Sum | O(n) | O(1) |
 
 ## 🧠 Concepts Covered
 
@@ -18,6 +19,7 @@ related to arrays, implemented in C++.
 - Nested Loops
 - Two Pointer Technique
 - In-place Array Manipulation
+- Prefix Sum
 - Greedy Approach
 - Time and Space Complexity
 

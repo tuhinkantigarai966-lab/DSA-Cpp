@@ -12,6 +12,7 @@ related to arrays, implemented in C++.
 | 121 | Best Time to Buy and Sell Stock | Greedy | O(n) | O(1) |
 | 283 | Move Zeroes | Two Pointer | O(n) | O(1) |
 | 1480 | Running Sum of 1d Array | Prefix Sum | O(n) | O(1) |
+| 1470 | Shuffle the Array | Index Manipulation | O(n) | O(n) |
 
 ## 🧠 Concepts Covered
 

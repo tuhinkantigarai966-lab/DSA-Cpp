@@ -1,37 +1,32 @@
-# DSA-Cpp
+# Arrays
 
-A collection of Data Structures and Algorithms problems
-implemented in C++.
+This section contains Data Structures and Algorithms problems
+related to arrays, implemented in C++.
 
-## 📚 Topics
+## 📚 Problems
 
-- Arrays
-- Searching
-- Sorting
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
+| # | Problem | Approach | Time | Space |
+|---|---------|----------|------|-------|
+| 1 | Two Sum | Brute Force | O(n²) | O(1) |
+| 27 | Remove Element | Two Pointer | O(n) | O(1) |
+| 121 | Best Time to Buy and Sell Stock | Greedy | O(n) | O(1) |
+| 283 | Move Zeroes | Two Pointer | O(n) | O(1) |
 
-## 🧩 Problems Solved
+## 🧠 Concepts Covered
 
-### Arrays
+- Array Traversal
+- Nested Loops
+- Two Pointer Technique
+- In-place Array Manipulation
+- Greedy Approach
+- Time and Space Complexity
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 1 | Two Sum | [View Solution](01-Arrays/Two_Sum.cpp) |
-| 27 | Remove Element | [View Solution](01-Arrays/Remove_Element.cpp) |
-| 121 | Best Time to Buy and Sell Stock | [View Solution](01-Arrays/Best_Time_to_Buy_and_Sell_Stock.cpp) |
-| 283 | Move Zeroes | [View Solution](01-Arrays/Move_Zeroes.cpp) |
-
-## 🛠️ Language
+## 💻 Language
 
 - C++
 
 ## 🎯 Goal
 
-This repository documents my journey of learning
-Data Structures and Algorithms and improving my
-problem-solving skills in C++.
+The goal of this section is to strengthen my understanding
+of arrays and develop efficient problem-solving techniques
+using C++.

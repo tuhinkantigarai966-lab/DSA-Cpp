@@ -27,6 +27,7 @@ A collection of Data Structures and Algorithms problems implemented in C++.
 | 27 | Remove Element | [View Solution](01-Arrays/Remove_Element.cpp) |
 | 121 | Best Time to Buy and Sell Stock | [View Solution](01-Arrays/Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 283 | Move Zeroes | [View Solution](01-Arrays/Move_Zeroes.cpp) |
+| 977 | Squares of a Sorted Array | [View Solution](01-Arrays/Squares_of_a_Sorted_Array.cpp) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | [View Solution](01-Arrays/Smaller_Numbers_Than_Current.cpp) |
 | 1470 | Shuffle the Array | [View Solution](01-Arrays/Shuffle_the_Array.cpp) |
 | 1480 | Running Sum of 1d Array | [View Solution](01-Arrays/Running_Sum.cpp) |

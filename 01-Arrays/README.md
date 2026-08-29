@@ -22,6 +22,9 @@ implemented in C++.
 | # | Problem | Solution |
 |---|---------|----------|
 | 1 | Two Sum | [View Solution](01-Arrays/Two_Sum.cpp) |
+| 27 | Remove Element | [View Solution](01-Arrays/Remove_Element.cpp) |
+| 121 | Best Time to Buy and Sell Stock | [View Solution](01-Arrays/Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| 283 | Move Zeroes | [View Solution](01-Arrays/Move_Zeroes.cpp) |
 
 ## 🛠️ Language
 

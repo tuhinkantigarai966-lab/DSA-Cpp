@@ -48,6 +48,12 @@ A collection of Data Structures and Algorithms problems implemented in C++.
 |---|---------|----------|
 | 344 | Reverse String | [View Solution](04-Strings/Reverse_String.cpp) |
 
+### Hashing
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 217 | Contains Duplicate | [View Solution](05-Hashing/Contains_Duplicate.cpp) |
+
 ## 🛠️ Language
 
 - C++

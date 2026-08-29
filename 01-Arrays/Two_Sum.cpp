@@ -1,3 +1,14 @@
+/*
+    LeetCode 1 - Two Sum
+
+    Approach:
+    Check every possible pair of elements.
+    If the sum of the pair equals the target,
+    return their indices.
+
+    Time Complexity: O(n^2)
+    Space Complexity: O(1)
+*/
 #include <vector>
 using namespace std;
 

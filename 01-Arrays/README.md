@@ -8,6 +8,7 @@ related to arrays, implemented in C++.
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
 | 1 | Two Sum | Brute Force | O(n²) | O(1) |
+| 26 | Remove Duplicates from Sorted Array | Two Pointer | O(n) | O(1) |
 | 27 | Remove Element | Two Pointer | O(n) | O(1) |
 | 121 | Best Time to Buy and Sell Stock | Greedy | O(n) | O(1) |
 | 283 | Move Zeroes | Two Pointer | O(n) | O(1) |

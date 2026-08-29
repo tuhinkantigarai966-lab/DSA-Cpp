@@ -5,8 +5,8 @@
     Find the smallest element in the unsorted part
     of the array and place it at the beginning.
 
-    Repeat this process until the entire array
-    is sorted.
+    After each pass, one element is placed in its
+    correct position.
 
     Time Complexity:
     Best Case: O(n^2)

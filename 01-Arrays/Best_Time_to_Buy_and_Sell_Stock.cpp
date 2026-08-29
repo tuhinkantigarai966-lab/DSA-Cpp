@@ -1,3 +1,17 @@
+/*
+    LeetCode 121 - Best Time to Buy and Sell Stock
+
+    Approach:
+    Keep track of the minimum price seen so far.
+    For each price, calculate the profit if we sell
+    on that day.
+
+    Update the maximum profit whenever a better
+    profit is found.
+
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+*/
 #include <vector>
 #include <algorithm>
 using namespace std;

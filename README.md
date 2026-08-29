@@ -54,6 +54,12 @@ A collection of Data Structures and Algorithms problems implemented in C++.
 |---|---------|----------|
 | 217 | Contains Duplicate | [View Solution](05-Hashing/Contains_Duplicate.cpp) |
 
+### Math
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 9 | Palindrome Number | [View Solution](06-Math/Palindrome_Number.cpp) |
+
 ## 🛠️ Language
 
 - C++

@@ -29,8 +29,7 @@ A collection of Data Structures and Algorithms problems implemented in C++.
 | 1365 | How Many Numbers Are Smaller Than the Current Number | [View Solution](01-Arrays/Smaller_Numbers_Than_Current.cpp) |
 | 1470 | Shuffle the Array | [View Solution](01-Arrays/Shuffle_the_Array.cpp) |
 | 1480 | Running Sum of 1d Array | [View Solution](01-Arrays/Running_Sum.cpp) |
-| 1920 | Build Array from Permutation | Index Manipulation | O(n) | O(n) |
-
+| 1920 | Build Array from Permutation | [View Solution](01-Arrays/Build_Array_from_Permutation.cpp) |
 ### Searching
 
 | # | Problem | Solution |

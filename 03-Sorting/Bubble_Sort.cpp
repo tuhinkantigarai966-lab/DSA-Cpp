@@ -8,8 +8,8 @@
     After each pass, the largest unsorted element
     moves to its correct position.
 
-    The swapped flag is used to stop early if the
-    array is already sorted.
+    If no swaps occur during a pass, the array is
+    already sorted and we can stop early.
 
     Time Complexity:
     Best Case: O(n)
@@ -20,6 +20,7 @@
 */
 
 #include <vector>
+#include <utility>
 using namespace std;
 
 void bubbleSort(vector<int>& nums) {
@@ -33,6 +34,7 @@ void bubbleSort(vector<int>& nums) {
         for (int j = 0; j < n - i - 1; j++) {
 
             if (nums[j] > nums[j + 1]) {
+
                 swap(nums[j], nums[j + 1]);
                 swapped = true;
             }

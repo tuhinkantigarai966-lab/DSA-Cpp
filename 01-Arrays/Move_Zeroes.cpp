@@ -1,3 +1,16 @@
+/*
+    LeetCode 283 - Move Zeroes
+
+    Approach:
+    Move all non-zero elements to the beginning
+    of the array while maintaining their order.
+
+    After placing all non-zero elements, fill the
+    remaining positions with zeroes.
+
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+*/
 #include <vector>
 using namespace std;
 
